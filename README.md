@@ -1,4 +1,3 @@
-# macOS-HP-Probook-430-G3-Resources
 Resources for HP Probook 430 G3 to run macOS
 ============================================
 
