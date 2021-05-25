@@ -48,7 +48,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Battery cycle count
 - macOS Powerchime(*I don't know what I will do,if you have any suggestions,create an issue*)
 
-####Benchmarks
+#### Benchmarks
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
 #### Important
