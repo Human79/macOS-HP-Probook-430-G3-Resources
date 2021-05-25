@@ -11,7 +11,7 @@ Resources for HP Probook 430 G3 to run macOS
 ![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119499872-c8600200-bd84-11eb-8485-282e9efa092c.png)
 
 
-####What works
+#### What works
 - iGPU acceleration (Intel HD 520)
 - Sleep
 - Battery Percentage
@@ -23,7 +23,7 @@ Resources for HP Probook 430 G3 to run macOS
 - VGA(*suprisingly*)
 - Dualbooting with Windows10(21H1)
 
-####What doesn't work
+#### What doesn't work
 - Built-In Wifi+Bluetooth(*unsupported*)
 - iMessage and Facetime (*May work for you as it is smbios related*)
 
@@ -38,12 +38,12 @@ Resources for HP Probook 430 G3 to run macOS
 | **WiFi Card**  | `Realtek (Unsupported)`                                          |
 | **OS**         | `macOS Big Sur 11.3.1`                                           |
 
-####Not tested
+#### Not tested
 - HDMI output(both)
 - RTS522A PCI Express Card Reader
 (*Ideally both should work,If some is willing to test,create an issue*)
 
-####To Do
+#### To Do
 - ~~Add pci devices in system information~~ *done*
 - Battery cycle count
 - macOS Powerchime(*I don't know what I will do,if you have any suggestions,create an issue*)
@@ -51,20 +51,20 @@ Resources for HP Probook 430 G3 to run macOS
 ####Benchmarks
 - Geekbench 5 [Multi-core and Single core] (https://browser.geekbench.com/v5/cpu/8013906)
 
-####Important
+#### Important
 - In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please  generate your own serials. 
  - `MLB`
   - `ROM`
   - `SystemSerialNumber` 
   - `SystemUUID`
 
--This repo can be helpful for other HP Probook/Elitebook series notebooks
+- This repo can be helpful for other HP Probook/Elitebook series notebooks
 
-####Having some problem
+#### Having some problem
 Create an issue and I'll try to help as many as I can.
 
-####Credits
-- [Apple](https://apple.com) for [macOS] (https://www.apple.com/macos/big-sur/)
-- [Acidanthera](https://github.com/Acidanthera) for [OpenCorepkg] (https://github.com/acidanthera/OpenCorePkg) and necessary kexts
+#### Credits
+- [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/big-sur/)
+- [Acidanthera](https://github.com/Acidanthera) for [OpenCorepkg](https://github.com/acidanthera/OpenCorePkg) and necessary kexts
 - [dortania](https://github.com/dortania) team for its detailed guides
-- [Corpnewt](https://github.com/CorpNewt) for [SSDTTime] (https://github.com/corpnewt/SSDTTime) and [USBMap] (https://github.com/corpnewt/USBMap)
+- [Corpnewt](https://github.com/CorpNewt) for [SSDTTime](https://github.com/corpnewt/SSDTTime) and [USBMap](https://github.com/corpnewt/USBMap)
