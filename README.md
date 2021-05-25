@@ -30,7 +30,7 @@ Resources for HP Probook 430 G3 to run macOS
 
 | Component      | Brand                                                            |
 |----------------|------------------------------------------------------------------|
-| **CPU**        | `Intel Core i5-6200U (2.4 GHz, up to 3 GHz 3 MB cache, 2 cores)' |   
+| **CPU**        |' Intel Core i5-6200U (2.4 GHz, up to 3 GHz 3 MB cache, 2 cores) ' |   
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
@@ -40,12 +40,13 @@ Resources for HP Probook 430 G3 to run macOS
 #### Not tested
 - HDMI output(both)
 - RTS522A PCI Express Card Reader
-(*Ideally both should work,If some is willing to test,create an issue*)
+- (*Ideally both should work,If some is willing to test,create an issue*)
 
 #### To Do
 - ~~Add pci devices in system information~~ *done*
 - Battery cycle count
 - macOS Powerchime(*I don't know what I will do,if you have any suggestions,create an issue*)
+- Let me know more
 
 #### Benchmarks
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
