@@ -31,7 +31,7 @@ Resources for HP Probook 430 G3 to run macOS
 
 | Component      | Brand                                                            |
 |----------------|------------------------------------------------------------------|
-| **CPU**        |' Intel Core i5-6200U (2.4 GHz, up to 3 GHz 3 MB cache, 2 cores) ' |   
+| **CPU**        | `Intel Core i5-6200U ` |   
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
@@ -67,5 +67,5 @@ Create an issue and I'll try to help as many as I can.
 #### Credits
 - [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/big-sur/)
 - [Acidanthera](https://github.com/Acidanthera) for [OpenCorepkg](https://github.com/acidanthera/OpenCorePkg) and necessary kexts
-- [dortania](https://github.com/dortania) team for its detailed guides
+- [dortania](https://github.com/dortania) for its detailed guides
 - [Corpnewt](https://github.com/CorpNewt) for [SSDTTime](https://github.com/corpnewt/SSDTTime) and [USBMap](https://github.com/corpnewt/USBMap)
