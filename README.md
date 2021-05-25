@@ -3,6 +3,7 @@ Resources for HP Probook 430 G3 to run macOS
 
 - Bootloader version:Opencore 0.6.9
 - macOS version: macOS Big Sur 11.3.1 Release
+
 ![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119499806-b8e0b900-bd84-11eb-8607-9476fbbfde9d.png)
 
 ![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119499843-c26a2100-bd84-11eb-8bc7-a26cf0b433c4.png)
