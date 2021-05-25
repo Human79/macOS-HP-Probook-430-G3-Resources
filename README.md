@@ -35,7 +35,6 @@ Resources for HP Probook 430 G3 to run macOS
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
-| **WiFi Card**  | `Realtek (Unsupported)`                                          |
 | **OS**         | `macOS Big Sur 11.3.1`                                           |
 
 #### Not tested
@@ -47,17 +46,14 @@ Resources for HP Probook 430 G3 to run macOS
 - ~~Add pci devices in system information~~  *done*
 - Battery cycle count
 - macOS Powerchime(*I don't know what I will do,if you have any suggestions,create an issue*)
+- Real Time Clock Loss (RTC)
 - Let me know more
 
 #### Benchmarks
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
 #### Important
-- In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please  generate your own serials. 
- - `MLB`
-  - `ROM`
-  - `SystemSerialNumber` 
-  - `SystemUUID`
+- In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. 
 
 - This repo can be helpful for other HP Probook/Elitebook series notebooks
 
