@@ -21,6 +21,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Audio with mute button (Both internal speakers and Microphone) (cx20724)
 - Native Power Management/(Also with cpufriend)
 - SMBus Controller
+- CPU Temperature Monitoring
 - VGA(*suprisingly*)
 - Dualbooting with Windows10(21H1)
 
