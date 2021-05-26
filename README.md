@@ -2,11 +2,11 @@ Resources for HP Probook 430 G3 to run macOS
 ============================================
 
 - Bootloader version:Opencore 0.6.9
-- macOS version: macOS Big Sur 11.3.1 Release
+- macOS version: macOS Big Sur 11.4 (20F71) Release
 
-![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119499806-b8e0b900-bd84-11eb-8607-9476fbbfde9d.png)
+![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119641431-441a8700-be37-11eb-89f1-d7285bbb917d.png)
 
-![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119499843-c26a2100-bd84-11eb-8bc7-a26cf0b433c4.png)
+![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119641402-3cf37900-be37-11eb-9e61-a954832685b2.png)
 
 ![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119499872-c8600200-bd84-11eb-8485-282e9efa092c.png)
 
@@ -47,7 +47,7 @@ Resources for HP Probook 430 G3 to run macOS
 - ~~Add pci devices in system information~~  *done*
 - Battery cycle count
 - macOS Powerchime(*I don't know what I will do,if you have any suggestions,create an issue*)
-- Real Time Clock Loss (RTC)
+- ~~Real Time Clock Loss (RTC)~~ *done*
 - Let me know more
 
 #### Benchmarks
