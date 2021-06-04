@@ -24,10 +24,11 @@ Resources for HP Probook 430 G3 to run macOS
 - CPU Temperature Monitoring
 - VGA(*suprisingly*)
 - Dualbooting with Windows10(21H1)
+- iMessage
+- Facetime
 
 #### What doesn't work
 - Built-In Wifi+Bluetooth(*unsupported*)
-- iMessage and Facetime (*May work for you as it is smbios related*)
 
 #### Specs
 
