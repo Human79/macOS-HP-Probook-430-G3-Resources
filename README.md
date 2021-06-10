@@ -38,7 +38,7 @@ Resources for HP Probook 430 G3 to run macOS
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
-| **OS**         | `macOS Big Sur 11.3.1`                                           |
+| **OS**         | `macOS Big Sur 11.4`                                           |
 
 #### Not tested
 - HDMI output(both)
