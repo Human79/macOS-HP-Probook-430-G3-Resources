@@ -67,4 +67,4 @@ Create an issue and I'll try to help as many as I can.
 - [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/big-sur/)
 - [Acidanthera](https://github.com/Acidanthera) for [OpenCorepkg](https://github.com/acidanthera/OpenCorePkg) and necessary kexts
 - [dortania](https://github.com/dortania) for its detailed guides
-- [Corpnewt](https://github.com/CorpNewt) for [SSDTTime](https://github.com/corpnewt/SSDTTime) and [USBMap](https://github.com/corpnewt/USBMap)
+- [Corpnewt](https://github.com/CorpNewt) for [USBMap](https://github.com/corpnewt/USBMap)
