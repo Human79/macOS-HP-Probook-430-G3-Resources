@@ -62,6 +62,7 @@ Resources for HP Probook 430 G3 to run macOS
  
 ### Bios Configuration
 
+
 #### Enable
 
 - Fast Boot
