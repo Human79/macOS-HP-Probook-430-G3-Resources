@@ -59,6 +59,26 @@ Resources for HP Probook 430 G3 to run macOS
 - In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. 
 
 - This repo can be helpful for other HP Probook/Elitebook series notebooks
+ 
+### Bios Configuration
+
+#### Enable
+
+- Fast Boot
+- Runtime Power Management
+- Extended Idle Power States
+- Deep Sleep
+- Power Control
+- Turbo Boost
+- Virtualization Technology (VTx)
+- Hyperthreading
+- Multi Processor
+
+ #### Disable
+ 
+- Legacy boot
+- Wake when lid is opened
+- Wake on USB
 
 #### Having some problem
 Create an issue and I'll try to help as many as I can.
