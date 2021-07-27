@@ -4,9 +4,9 @@ Resources for HP Probook 430 G3 to run macOS
 - Bootloader version:Opencore 0.7.1
 - macOS version: macOS Big Sur 11.4 (20F71) Release and macOS Monterey
 
-![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119641431-441a8700-be37-11eb-89f1-d7285bbb917d.png)
+![Oops!There was supposed to be an image here](https://i.imgur.com/myBY4Qe.png)
 
-![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119641402-3cf37900-be37-11eb-9e61-a954832685b2.png)
+![Oops!There was supposed to be an image here](https://i.imgur.com/LjHbbeC.png)
 
 ![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119499872-c8600200-bd84-11eb-8485-282e9efa092c.png)
 
