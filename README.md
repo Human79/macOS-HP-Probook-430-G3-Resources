@@ -9,9 +9,6 @@ Resources for HP Probook 430 G3 to run macOS
 
 ![Oops!There was supposed to be an image here](https://i.imgur.com/LjHbbeC.png)
 
-![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/119499872-c8600200-bd84-11eb-8485-282e9efa092c.png)
-
-
 #### What works
 - iGPU acceleration (Intel HD 520)
 - Sleep
