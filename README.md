@@ -3,6 +3,7 @@ Resources for HP Probook 430 G3 to run macOS
 
 - Bootloader version:Opencore 0.7.1
 - macOS version: macOS Big Sur 11.5 (20G71)
+- Winodws version: Windows 11 Insider Preview Build 22000.100 for the Dev Channel
 
 ![Oops!There was supposed to be an image here](https://i.imgur.com/myBY4Qe.png)
 
@@ -23,7 +24,7 @@ Resources for HP Probook 430 G3 to run macOS
 - SMBus Controller
 - CPU Temperature Monitoring
 - VGA(*suprisingly*)
-- Dualbooting with Windows10(21H1)
+- Dualbooting with Windows 11 Insider Preview Build 22000.100 for the Dev Channel
 - iMessage
 - Facetime
 
@@ -38,7 +39,7 @@ Resources for HP Probook 430 G3 to run macOS
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
-| **OS**         | `macOS Big Sur 11.5` and `Windows 11`                                      |
+| **OS**         | `macOS Big Sur 11.5 (20G71)` and `Windows 11 Insider Preview Build 22000.100 for the Dev Channel`|
 
 #### Not tested
 - HDMI output(both)
