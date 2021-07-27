@@ -1,7 +1,7 @@
 Resources for HP Probook 430 G3 to run macOS
 ============================================
 
-- Bootloader version:Opencore 0.7.1
+- Bootloader version: Opencore 0.7.1
 - macOS version: macOS Big Sur 11.5 (20G71)
 - Windows version: Windows 11 Insider Preview Build 22000.100 for the Dev Channel
 
@@ -23,13 +23,13 @@ Resources for HP Probook 430 G3 to run macOS
 - Native Power Management/(Also with cpufriend)
 - SMBus Controller
 - CPU Temperature Monitoring
-- VGA(*suprisingly*)
+- VGA (*suprisingly*)
 - Dualbooting with Windows 11 Insider Preview Build 22000.100 for the Dev Channel
 - iMessage
 - Facetime
 
 #### What doesn't work
-- Built-In Wifi+Bluetooth(*unsupported*)
+- Built-In Wifi+Bluetooth (*unsupported*)
 
 #### Specs
 
@@ -44,12 +44,12 @@ Resources for HP Probook 430 G3 to run macOS
 #### Not tested
 - HDMI output(both)
 - RTS522A PCI Express Card Reader
-- (*Ideally both should work,If some is willing to test,create an issue*)
+- (*Ideally both should work, If some is willing to test, create an issue*)
 
 #### To Do
 - ~~Add pci devices in system information~~  *done*
 - Battery cycle count
-- macOS Powerchime(*I don't know what I will do,if you have any suggestions,create an issue*)
+- macOS Powerchime (*I don't know what I will do,if you have any suggestions,create an issue*)
 - ~~Real Time Clock Loss (RTC)~~ *done*
 - Let me know more
 
@@ -83,7 +83,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Wake on USB
 
 #### Having some problem
-Create an issue and I'll try to help as many as I can.
+Create an issue and I'll try to help as many as I can
 
 #### Credits
 - [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/big-sur/)
