@@ -8,6 +8,7 @@ Resources for HP Probook 430 G3 to run macOS
 ![Oops!There was supposed to be an image here](https://i.imgur.com/myBY4Qe.png)
 
 ![Oops!There was supposed to be an image here](https://i.imgur.com/LjHbbeC.png)
+
 ![Oops!There was supposed to be an image here](https://i.imgur.com/EAKVfPD.png)
 
 #### What works
