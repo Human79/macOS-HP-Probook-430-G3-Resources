@@ -44,7 +44,6 @@ Resources for HP Probook 430 G3 to run macOS
 
 #### To Do
 - ~~Add pci devices in system information~~  *done*
-- Battery cycle count
 - macOS Powerchime (*I don't know what I will do,if you have any suggestions,create an issue*)
 - ~~Real Time Clock Loss (RTC)~~ *done*
 - Let me know more
