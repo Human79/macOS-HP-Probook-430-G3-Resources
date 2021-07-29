@@ -38,13 +38,13 @@ Resources for HP Probook 430 G3 to run macOS
 | **OS**         | `macOS Big Sur 11.5.1 (20G80)` and `Windows 11 Insider Preview Build 22000.100 for the Dev Channel`|
 
 #### Not tested
-- HDMI output(both)
+- HDMI output (both audio and video)
 - RTS522A PCI Express Card Reader
 - (*Ideally both should work, If some is willing to test, create an issue*)
 
 #### To Do
 - ~~Add pci devices in system information~~  *done*
-- macOS Powerchime (*I don't know what I will do,if you have any suggestions,create an issue*)
+- macOS Powerchime (*I don't know what I will do, if you have any suggestions,create an issue*)
 - ~~Real Time Clock Loss (RTC)~~ *done*
 - Let me know more
 
