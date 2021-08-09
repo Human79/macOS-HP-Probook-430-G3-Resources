@@ -46,8 +46,8 @@ Resources for HP Probook 430 G3 to run macOS
 - ~~Add pci devices in system information~~  *done*
 - macOS Powerchime (*I don't know what I will do, if you have any suggestions,create an issue*)
 - ~~Real Time Clock Loss (RTC)~~ *done*
-- Battery Cycle count
-- Let me know more
+- ~~Battery Cycle count~~ *Fixed by updating to the Latest Bios*
+- Let me know more 
 
 #### Benchmarks
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
