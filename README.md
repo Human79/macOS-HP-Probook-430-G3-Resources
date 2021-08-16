@@ -5,7 +5,7 @@ Resources for HP Probook 430 G3 to run macOS
 - macOS version: macOS Big Sur 11.5.2 (20G95)
 - Windows version: Windows 11 Insider Preview Build 22000.132 for the Beta Channel
 ![Oops!There was supposed to be an image here](https://i.imgur.com/33J0ITE.png)
-![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/127442252-f3d46091-7b33-4e3c-ae9f-99cd9d630a12.png)
+![Oops!There was supposed to be an image here](https://i.imgur.com/evyClZk.png)
 ![Oops!There was supposed to be an image here](https://i.imgur.com/EAKVfPD.png)
 
 #### What works
