@@ -21,7 +21,6 @@ Resources for HP Probook 430 G3 to run macOS
 - CPU Temperature Monitoring
 - VGA (*suprisingly*)
 - Dualbooting with Windows 11 Insider Preview Build 22000.132 for the Beta Channel
-- HDMI (Audio and Video) (*as tested by @benjenq*)
 - iMessage
 - Facetime
 
