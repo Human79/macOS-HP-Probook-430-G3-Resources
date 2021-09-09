@@ -19,7 +19,9 @@ Resources for HP Probook 430 G3 to run macOS
 - Native Power Management/(Also with cpufriend)
 - SMBus Controller
 - CPU Temperature Monitoring
+- Fan Speed Monitoring
 - VGA (*suprisingly*)
+- Boot Chime
 - Dualbooting with Windows 11 Insider Preview Build 22000.176 for the Beta Channel
 - iMessage
 - Facetime
@@ -47,7 +49,7 @@ Resources for HP Probook 430 G3 to run macOS
 - macOS Powerchime (*I don't know what I will do, if you have any suggestions,create an issue*)
 - ~~Real Time Clock Loss (RTC)~~ *done*
 - ~~Battery Cycle count~~ *Fixed by updating to the Latest Bios*
-- Fan Speed Monitoring
+- ~~Fan Speed Monitoring~~
 - Let me know more 
 
 #### Benchmarks
