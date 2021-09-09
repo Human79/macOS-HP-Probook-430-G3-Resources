@@ -49,7 +49,7 @@ Resources for HP Probook 430 G3 to run macOS
 - macOS Powerchime (*I don't know what I will do, if you have any suggestions,create an issue*)
 - ~~Real Time Clock Loss (RTC)~~ *done*
 - ~~Battery Cycle count~~ *Fixed by updating to the Latest Bios*
-- ~~Fan Speed Monitoring~~
+- ~~Fan Speed Monitoring~~ *done*
 - Let me know more 
 
 #### Benchmarks
