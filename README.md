@@ -1,7 +1,7 @@
 Resources for HP Probook 430 G3 to run macOS
 ============================================
 
-- Bootloader version: Opencore 0.7.2
+- Bootloader version: Opencore 0.7.3
 - macOS version: macOS Big Sur 11.5.2 (20G95)
 - Windows version: Windows 11 Insider Preview Build 22000.176 for the Beta Channel
 ![Oops!There was supposed to be an image here](https://i.imgur.com/33J0ITE.png)
