@@ -3,7 +3,7 @@ Resources for HP Probook 430 G3 to run macOS
 
 - Bootloader version: Opencore 0.7.3
 - macOS version: macOS Big Sur 11.5.2 (20G95)
-- Windows version: Windows 11 Insider Preview Build 22000.176 for the Beta Channel
+- Windows version: Windows 11 Insider Preview Build 22000.194 for the Beta Channel
 ![Oops!There was supposed to be an image here](https://i.imgur.com/33J0ITE.png)
 ![Oops!There was supposed to be an image here](https://i.imgur.com/evyClZk.png)
 ![Oops!There was supposed to be an image here](https://i.imgur.com/EAKVfPD.png)
@@ -22,7 +22,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Fan Speed Monitoring
 - VGA (*suprisingly*)
 - Boot Chime
-- Dualbooting with Windows 11 Insider Preview Build 22000.176 for the Beta Channel
+- Dualbooting with Windows 11 Insider Preview Build 22000.194 for the Beta Channel
 - iMessage
 - Facetime
 
@@ -37,7 +37,7 @@ Resources for HP Probook 430 G3 to run macOS
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
-| **OS**         | `macOS Big Sur 11.5.2 (20G95)` and `Windows 11 Insider Preview 22000.176 for the Beta Channel`|
+| **OS**         | `macOS Big Sur 11.5.2 (20G95)` and `Windows 11 Insider Preview 22000.194 for the Beta Channel`|
 
 #### Not tested
 - HDMI output (both audio and video)
