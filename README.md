@@ -96,5 +96,6 @@ Create an issue and I'll try to help as many as I can
 #### Credits
 - [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/big-sur/)
 - [Acidanthera](https://github.com/Acidanthera) for [OpenCorepkg](https://github.com/acidanthera/OpenCorePkg) and necessary kexts
+- [Krazy-Killa](https://github.com/Krazy-Killa) for the Three finger gestures
 - [dortania](https://github.com/dortania) for its detailed guides
 - [Corpnewt](https://github.com/CorpNewt) for [USBMap](https://github.com/corpnewt/USBMap)
