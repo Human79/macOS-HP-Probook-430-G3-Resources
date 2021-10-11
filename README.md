@@ -21,6 +21,7 @@ Resources for HP Probook 430 G3 to run macOS
 - CPU Temperature Monitoring
 - Fan Speed Monitoring
 - VGA (*suprisingly*)
+- Three Finger Gestures
 - Boot Chime
 - Dualbooting with Windows 11 Release
 - iMessage
@@ -52,6 +53,13 @@ Resources for HP Probook 430 G3 to run macOS
 - ~~Fan Speed Monitoring~~ *done*
 - Let me know more 
 
+#### Making the Three Finger Gestures Work
+
+- Open System Preferences->Keyboard->Shortcuts
+![Oops!There was supposed to be an image here](https://i.imgur.com/R7nBLxH.png)
+- Double-tap on shortcut you want it to perform.
+- Do the Three Finger Gesture to set it.
+- Voila! You're Done!
 #### Benchmarks
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
