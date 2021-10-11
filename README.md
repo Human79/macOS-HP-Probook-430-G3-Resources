@@ -56,7 +56,7 @@ Resources for HP Probook 430 G3 to run macOS
 #### Making the Three Finger Gestures Work
 
 - Open System Preferences->Keyboard->Shortcuts
-![Oops!There was supposed to be an image here](https://i.imgur.com/R7nBLxH.png)
+![Oops!There was supposed to be an image here](https://i.imgur.com/pv0wnyy.png)
 - Double-tap on shortcut you want it to perform.
 - Do the Three Finger Gesture to set it.
 - Voila! You're Done!
