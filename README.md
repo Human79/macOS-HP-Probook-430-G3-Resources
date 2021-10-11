@@ -40,6 +40,14 @@ Resources for HP Probook 430 G3 to run macOS
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
 | **OS**         | `macOS Big Sur 11.6 (20G165)` and `Windows 11 Release`|
 
+#### Making the Three Finger Gestures Work
+
+- Open System Preferences->Keyboard->Shortcuts
+![Oops!There was supposed to be an image here](https://i.imgur.com/pv0wnyy.png)
+- Double-tap on shortcut you want it to perform.
+- Do the Three Finger Gesture to set it.
+- Voila! You're Done!
+
 #### Not tested
 - HDMI output (both audio and video)
 - RTS522A PCI Express Card Reader
@@ -53,13 +61,6 @@ Resources for HP Probook 430 G3 to run macOS
 - ~~Fan Speed Monitoring~~ *done*
 - Let me know more 
 
-#### Making the Three Finger Gestures Work
-
-- Open System Preferences->Keyboard->Shortcuts
-![Oops!There was supposed to be an image here](https://i.imgur.com/pv0wnyy.png)
-- Double-tap on shortcut you want it to perform.
-- Do the Three Finger Gesture to set it.
-- Voila! You're Done!
 #### Benchmarks
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
