@@ -65,7 +65,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
 #### Important
-- In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. 
+- In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro13,2) 
 
 - This repo can be helpful for other HP Probook/Elitebook series notebooks
  
