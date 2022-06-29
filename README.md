@@ -1,6 +1,7 @@
 Resources for HP Probook 430 G3 to run macOS
 ============================================
 
+- Currently working on: macOS Ventura compatibilty and Boot chime!
 - Bootloader version: Opencore 0.7.6
 - macOS version: macOS Monterey 12.0.1 (21A559)
 - Windows version: Windows 11 
