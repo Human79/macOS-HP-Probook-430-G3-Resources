@@ -4,7 +4,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Bootloader version: Opencore 0.8.2
 - macOS version: macOS Ventura Developer Beta 2
 - Windows version: Windows 11 
-![Oops!There was supposed to be an image here](![pic](https://user-images.githubusercontent.com/84245065/177282913-fc39adb0-6157-4621-8bbd-c68b60e3c48b.png)
+![Oops!There was supposed to be an image here](https://user-images.githubusercontent.com/84245065/177282913-fc39adb0-6157-4621-8bbd-c68b60e3c48b.png)
 )
 ![Oops!There was supposed to be an image here](https://i.imgur.com/EAKVfPD.png)
 
