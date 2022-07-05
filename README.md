@@ -1,12 +1,11 @@
 Resources for HP Probook 430 G3 to run macOS
 ============================================
 
-- Currently working on: macOS Ventura compatibilty and Boot chime!
-- Bootloader version: Opencore 0.7.6
-- macOS version: macOS Monterey 12.0.1 (21A559)
+- Bootloader version: Opencore 0.8.2
+- macOS version: macOS Ventura Developer Beta 2
 - Windows version: Windows 11 
-![Oops!There was supposed to be an image here](https://i.imgur.com/3YRpniU.png)
-![Oops!There was supposed to be an image here](https://i.imgur.com/scUDfac.png)
+![Oops!There was supposed to be an image here](![pic](https://user-images.githubusercontent.com/84245065/177282913-fc39adb0-6157-4621-8bbd-c68b60e3c48b.png)
+)
 ![Oops!There was supposed to be an image here](https://i.imgur.com/EAKVfPD.png)
 
 #### What works
@@ -39,7 +38,7 @@ Resources for HP Probook 430 G3 to run macOS
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
-| **OS**         | `macOS Big Sur 11.6 (20G165)` and `Windows 11 Release`|
+| **OS**         | `macOS Ventura Developer Beta 2` and `Windows 11 Release`|
 
 #### Making the Three Finger Gestures Work
 
@@ -66,7 +65,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
 #### Important
-- In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro13,2) 
+- In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro14,1) 
 
 - This repo can be helpful for other HP Probook/Elitebook series notebooks
  
