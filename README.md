@@ -3,9 +3,8 @@ Resources for HP Probook 430 G3 to run macOS
 
  ## This project is still in maintenance, feel free to create an issue incase you face any difficulty!
 
-- Bootloader version: Opencore 0.8.3 Developer Version
-- macOS version: macOS Ventura Public Beta 
-- Windows version: Windows 11 
+- Bootloader version: Opencore 0.9.3
+- macOS version: macOS Sonoma Developer Beta 1
 ![Oops!There was supposed to be an image here](https://i.imgur.com/rpNvDF9.png)
 )
 ![Oops!There was supposed to be an image here](https://i.imgur.com/EAKVfPD.png)
@@ -40,7 +39,7 @@ Resources for HP Probook 430 G3 to run macOS
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
 | **Audio**      | `Conexant 20724 - layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
-| **OS**         | `macOS Ventura Developer Beta 2` and `Windows 11 Release`|
+| **OS**         | `macOS Sonoma Developer Beta 1`|
 
 #### Making the Three Finger Gestures Work
 
@@ -67,7 +66,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Geekbench 5 [Multi-core and Single core](https://browser.geekbench.com/v5/cpu/8013906)
 
 #### Important
-- In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro14,1) 
+- In the config.plist, section `PlatformInfo > Generic`, the following fields are currently edited with CHANGEME. Please generate your own serial. (Reccommended SMBIOS : MacBookPro14,1 for macOS Monterey and below, McBookPro15,1 for Ventura and above) 
 
 - This repo can be helpful for other HP Probook/Elitebook series notebooks
  
