@@ -7,7 +7,7 @@ Resources for HP Probook 430 G3 to run macOS
 - macOS version: macOS Sonoma Developer Beta 1
 ![Oops!There was supposed to be an image here](https://i.imgur.com/rpNvDF9.png)
 )
-![Oops!There was supposed to be an image here](https://i.imgur.com/EAKVfPD.png)
+
 
 #### What works
 - iGPU acceleration (Intel HD 520)
