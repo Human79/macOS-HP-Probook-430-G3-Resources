@@ -29,7 +29,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Facetime
 
 #### What doesn't work
-- Built-In Wifi+Bluetooth (*unsupported*)
+- Built-In Wifi (Except Intel + Realtek)+Bluetooth (*unsupported*)
 
 #### Specs
 
@@ -49,10 +49,10 @@ Resources for HP Probook 430 G3 to run macOS
 - Do the Three Finger Gesture to set it.
 - Voila! You're Done!
 
-#### Not tested
+#### Not tested*
 - HDMI output (both audio and video)
 - RTS522A PCI Express Card Reader
-- (*Ideally both should work, If some is willing to test, create an issue*)
+- (*Ideally both should work, If some is willing to test, create an issue)
 
 #### To Do
 - ~~Add pci devices in system information~~  *done*
@@ -95,7 +95,7 @@ Resources for HP Probook 430 G3 to run macOS
 Create an issue and I'll try to help as many as I can
 
 #### Credits
-- [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/big-sur/)
+- [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/ventura/)
 - [Acidanthera](https://github.com/Acidanthera) for [OpenCorepkg](https://github.com/acidanthera/OpenCorePkg) and necessary kexts
 - [Krazy-Killa](https://github.com/Krazy-Killa) for the Three finger gestures
 - [dortania](https://github.com/dortania) for its detailed guides
