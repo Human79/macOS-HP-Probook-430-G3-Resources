@@ -14,10 +14,10 @@ Resources for HP Probook 430 G3 to run macOS
 - Sleep
 - Battery Percentage
 - Display Brightness
-- USB ports
+- USB ports (Note: You've Must Remap Your USB If Your All Port's Fine Otherwise Ignore)
 - Internal Camera
-- Audio with mute button (Both internal speakers and Microphone) (cx20724)
-- Native Power Management/(Also with cpufriend)
+- Audio with mute button (Both internal speakers and Microphone) (CX20724)
+- Native Power Management (Also with cpufriend)
 - SMBus Controller
 - CPU Temperature Monitoring
 - Fan Speed Monitoring
@@ -35,9 +35,9 @@ Resources for HP Probook 430 G3 to run macOS
 
 | Component      | Brand                                                            |
 |----------------|------------------------------------------------------------------|
-| **CPU**        | `Intel Core i5-6200U ` |   
+| **CPU**        | `Intel Core i5-6200U `   
 | **iGPU**       | `Intel HD Graphics 520 `                                         |
-| **Audio**      | `Conexant 20724 - layout 3`                                      |
+| **Audio**      | `Conexant 20724 - Layout 3`                                      |
 | **Ethernet**   | `Realtek RTL8111/8168`                                           |
 | **OS**         | `macOS Sonoma Developer Beta 1`
 
@@ -52,7 +52,7 @@ Resources for HP Probook 430 G3 to run macOS
 #### Not tested*
 - HDMI output (both audio and video)
 - RTS522A PCI Express Card Reader
-- (*Ideally both should work, If some is willing to test, create an issue)
+(*Ideally both should work, If some is willing to test, create an issue)
 
 #### To Do
 - ~~Add pci devices in system information~~  *done*
