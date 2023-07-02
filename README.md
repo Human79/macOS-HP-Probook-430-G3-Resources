@@ -91,7 +91,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Wake when lid is opened
 - Wake on USB
 
-#### Having some problem
+#### Having problems?
 Create an issue and I'll try to help as many as I can
 
 #### Credits
