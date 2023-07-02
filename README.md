@@ -9,12 +9,12 @@ Resources for HP Probook 430 G3 to run macOS
 
 
 
-#### What works
+#### Working Normally
 - iGPU acceleration (Intel HD 520)
 - Sleep
 - Battery Percentage
 - Display Brightness
-- USB ports (Note: You've Must Remap Your USB If Your All Port's Fine Otherwise Ignore)
+- USB Ports (Note: You've Must Remap Your USB If Your All Port's Fine Otherwise Ignore)
 - Internal Camera
 - Audio with mute button (Both internal speakers and Microphone) (CX20724)
 - Native Power Management (Also with cpufriend)
@@ -28,7 +28,7 @@ Resources for HP Probook 430 G3 to run macOS
 - iMessage
 - Facetime
 
-#### What doesn't work
+#### Doesn't Work
 - Built-In Wifi (Except Intel + Realtek)+Bluetooth (*unsupported*)
 
 #### Specs
