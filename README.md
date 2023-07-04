@@ -29,7 +29,7 @@ Resources for HP Probook 430 G3 to run macOS
 - Facetime
 
 #### What doesn't work
-- Built-In Wifi+Bluetooth (*unsupported*)
+- Built-In Realtek Wifi+Bluetooth (*unsupported*)
 
 #### Specs
 
@@ -90,6 +90,9 @@ Resources for HP Probook 430 G3 to run macOS
 - Legacy boot
 - Wake when lid is opened
 - Wake on USB
+
+#### WI-FI
+- Intel WIFI Cards can be made to work using [Airportitwlm](https://github.com/OpenIntelWireless/itlwm). More Details about this [Here](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Wireless.html).
 
 #### Having some problem
 Create an issue and I'll try to help as many as I can
