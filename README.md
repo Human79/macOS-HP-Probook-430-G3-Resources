@@ -24,7 +24,6 @@ Resources for HP Probook 430 G3 to run macOS
 - VGA (*suprisingly*)
 - Three Finger Gestures
 - Boot Chime
-- Dualbooting with Windows 11 Release
 - iMessage
 - Facetime
 
@@ -94,11 +93,11 @@ Resources for HP Probook 430 G3 to run macOS
 #### WI-FI
 - Intel WIFI Cards can be made to work using [Airportitwlm](https://github.com/OpenIntelWireless/itlwm). More Details about this [Here](https://dortania.github.io/Anti-Hackintosh-Buyers-Guide/Wireless.html).
 
-#### Having some problem
+#### Having Problems?
 Create an issue and I'll try to help as many as I can
 
 #### Credits
-- [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/big-sur/)
+- [Apple](https://apple.com) for [macOS](https://www.apple.com/macos/ventura/)
 - [Acidanthera](https://github.com/Acidanthera) for [OpenCorepkg](https://github.com/acidanthera/OpenCorePkg) and necessary kexts
 - [Krazy-Killa](https://github.com/Krazy-Killa) for the Three finger gestures
 - [dortania](https://github.com/dortania) for its detailed guides
